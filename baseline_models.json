@@ -1,0 +1,14 @@
+{
+  "RF": {
+    "n_estimators": 100,
+    "max_depth": null,
+    "random_state": 42
+  },
+  "SVC": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "probability": true,
+    "random_state": 42
+  }
+}
